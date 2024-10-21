@@ -1,8 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using NativeDialog;
-
 namespace CampStudio.MessageBox
 {
     public static partial class MessageBox
@@ -12,8 +10,8 @@ namespace CampStudio.MessageBox
             #if UNITY_EDITOR
                 UnityEditor.EditorUtility.DisplayDialog(tittle, text, "OK");
             #else
-                DialogManager.SetLabel("OK", "Ok", "Ok");
-                DialogManager.ShowSubmit(text, text, _ => {});
+                NativeDialog.DialogManager.SetLabel("OK", "Ok", "Ok");
+                NativeDialog.DialogManager.ShowSubmit(text, text, _ => {});
             #endif
         }
     }
