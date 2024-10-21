@@ -1,0 +1,16 @@
+{
+    "name": "UnityMessageBoxRuntime",
+    "rootNamespace": "CampStudio.UnityMessageBox",
+    "references": [
+        "GUID:c8b120a9164c64123ade02f268e8a469"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
