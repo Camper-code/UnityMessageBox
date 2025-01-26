@@ -1,10 +1,10 @@
 {
     "name": "com.campstudio.unitymessagebox",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "displayName": "Unity Message Box",
     "description": "Easy to use message box for Unity iOS/Android/Editpr. Based on https://github.com/asus4/UnityNativeDialogPlugin?path=/Packages/com.github.asus4.nativedialog#v1.1.0",
-    "unity": "2022.3",
-    "unityRelease": "34f1",
+    "unity": "6000.0",
+    "unityRelease": "10f1",
     "documentationUrl": "https://github.com/Camper-code/UnityMessageBox/blob/master/README.md",
     "changelogUrl": "https://github.com/Camper-code/UnityMessageBox/blob/master/CHANGEOG.md",
     "licensesUrl": "https://github.com/Camper-code/UnityMessageBox/blob/master/LICENSE",
