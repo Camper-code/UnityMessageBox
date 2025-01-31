@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-namespace CampStudio.MessageBox
+namespace CampStudio.UnityMessageBox
 {
     public static partial class MessageBox
     {
