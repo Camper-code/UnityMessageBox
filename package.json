@@ -1,6 +1,6 @@
 {
     "name": "com.campstudio.unitymessagebox",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "displayName": "Unity Message Box",
     "description": "Easy to use message box for Unity iOS/Android/Editpr. Based on https://github.com/asus4/UnityNativeDialogPlugin?path=/Packages/com.github.asus4.nativedialog#v1.1.0",
     "unity": "6000.0",

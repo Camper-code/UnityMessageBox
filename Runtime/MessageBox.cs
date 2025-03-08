@@ -11,7 +11,7 @@ namespace CampStudio.UnityMessageBox
                 UnityEditor.EditorUtility.DisplayDialog(tittle, text, "OK");
             #else
                 NativeDialog.DialogManager.SetLabel("OK", "Ok", "Ok");
-                NativeDialog.DialogManager.ShowSubmit(text, text, _ => {});
+                NativeDialog.DialogManager.ShowSubmit(tittle, text, _ => {});
             #endif
         }
     }
